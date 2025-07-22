@@ -2,8 +2,10 @@
 
 A curated collection of my Kaggle notebooks, datasets, and experiments. Follow my journey as I explore machine learning and data science!
 
+All thanks to Kaggle's Dataset and free course on the path of machine learning. Thanks KAGGLE 😊
+
 ## 📌 Key Features
-- **3 Kaggle Notebooks**: From introductory ML concepts to building my first model.
+- **2 Kaggle Notebooks**: From introductory ML concepts to building my first model.
 - **Clean Code**: Well-documented Python scripts with PEP8 compliance.
 - **Datasets**: Small sample datasets used in exercises.
 - **Daily Logs**: Track progress and insights from each session.
@@ -21,7 +23,7 @@ A curated collection of my Kaggle notebooks, datasets, and experiments. Follow m
 - **Scikit-learn**
 
 ## 📖 Why This Repo?
-This repository serves as a living documentation of my machine learning learning curve. Each commit represents a small victory in my quest to master data science.
+This repository serves as a living documentation of my machine learning learning curve. Each commit represents a small victory in my quest to Master data science.
 
 ## 📣 How to Use
 1. Clone the repo: `git clone https://github.com/Riyan-Akbar/kaggle-ml-diary.git`
