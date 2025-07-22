@@ -31,9 +31,9 @@ This repository serves as a living documentation of my machine learning learning
 
 ## 📢 Social Proof
 Follow my progress on:
-- [X/Twitter](https://twitter.com/Riyan_)
-- [Kaggle](https://www.kaggle.com/riyanking)
-- [CodeChef](https://www.codechef.com/users/Riyan)
+- [X/Twitter](https://x.com/Riyzing_)
+- [Kaggle](https://www.kaggle.com/riyanakb)
+- [Linkedin](https://www.linkedin.com/in/riyan-a-16bb36287/)
 
 ## 🎯 Future Updates
 - Add visualizations for data exploration.
