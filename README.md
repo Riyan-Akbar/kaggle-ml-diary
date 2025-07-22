@@ -11,9 +11,8 @@ A curated collection of my Kaggle notebooks, datasets, and experiments. Follow m
 ## 🚀 Notebooks
 | Notebook | Description | Status |
 |----------|-------------|--------|
-| [01_intro_ml.ipynb](notebooks/01_intro_ml.ipynb) | Introduction to machine learning concepts. | ✅ Completed |
-| [02_data_exploration.ipynb](notebooks/02_data_exploration.ipynb) | Basic data exploration techniques. | ✅ Completed |
-| [03_first_model.ipynb](notebooks/03_first_model.ipynb) | Building my first machine learning model. | ⏳ In Progress |
+| [01_intro_ml_data_exploration.ipynb](notebooks/01_intro_ml.ipynb) | Introduction to machine learning concepts. | Basic data exploration techniques. | ✅ Completed |
+| [02_first_model.ipynb](notebooks/03_first_model.ipynb) | Building my first machine learning model. | ⏳ In Progress |
 
 ## 🛠 Technical Stack
 - **Python**
